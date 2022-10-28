@@ -3,7 +3,7 @@
 Esse é um scritp shell para acesso de equipamentos **CISCO** por lista e/ou menus com a criação automatica de logs com data e hora 
 em sua devida pasta "logs", também preenche automaticamente login e senha. 
 
-Foi escrito de forma que não necessitasse de sshpass.
+Foi escrito de forma que não é necessário a utilização de sshpass.
 
 ## Itens necessários para execução do código
 
