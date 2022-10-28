@@ -7,8 +7,7 @@ Foi escrito de forma que não é necessário a utilização de sshpass.
 
 ## Itens necessários para execução do código
 
--Linux ou WSL
--Expect
+-Linux ou WSL e Expect
 
 ## Configurações iniciais
 
