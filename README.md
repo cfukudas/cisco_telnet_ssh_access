@@ -14,6 +14,13 @@ Foi escrito de forma que não é necessário a utilização de sshpass.
 
 Editar o script "sw.sh e sw2.sh" com o menu que deseja que apareça na tela. 
 
+Por exemplo:
+```
+ = DC1 ============== DC2 ============== DC3 ============== DC4 =============
+ # 101. DEVICEA-01  # 201. DEVICEB-01  # 301. DEVICEC-01  # 350. DEVICED-01 # 
+ # 102. DEVICEA-02  # 202. DEVICEB-02  # 302. DEVICEC-02  # 351. DEVICED-02 # 
+ ============================================================================
+``` 
 Para o preenchimento automatico de usuario e senha, as variáveis a seguir deverão ser configuradas:
 
 ```
