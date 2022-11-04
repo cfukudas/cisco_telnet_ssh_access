@@ -20,10 +20,10 @@ Edit the "sw.sh and sw2.sh" script with the menu you want to appear on the scree
 
 For example:
 ```
- = DC1 ================ DC2 ============== DC3 ================ DC4 === ==========
+ = DC1 ============= DC2 ============= DC3 ============= DC4 =============
  # 101. DEVICEA-01 # 201. DEVICEB-01 # 301. DEVICEC-01 # 350. DEVICED-01 #
  # 102. DEVICEA-02 # 202. DEVICEB-02 # 302. DEVICEC-02 # 351. DEVICED-02 #
- ========================================================== ===============================
+ =========================================================================
 ```
 For the automatic filling of username and password, the following variables must be configured:
 
