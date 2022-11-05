@@ -74,7 +74,7 @@ The example file would be this:
 ```
 DEVICEA-01-2022-10-28-121013.log
 ```
-It would look like the following: Hostname_Ano_Mes_Dia_HoraMinutosSegundos.log
+It would look like the following: Hostname_Year_Month_Day_HourMinutesSeconds.log
 
 ## General information
 
